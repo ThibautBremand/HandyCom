@@ -1,0 +1,27 @@
+		</title>
+	
+	<!-- PLUGINS -->
+		<!-- Bootstrap -->
+		<link rel="stylesheet" href="plugins/bootstrap-3.1.1-dist/css/bootstrap.min.css"></link>
+		
+		<!-- jQuery -->
+		<script src="plugins/jQuery/jquery.js"></script>
+		
+		<!-- Font Awesome -->
+        <link rel="stylesheet" href="plugins/font-awesome-4.3.0/css/font-awesome.min.css">
+	
+	<!-- CUSTOM -->
+		<link rel="stylesheet" href="css/style.css"></link>
+		<script src="js/script.js"></script>
+</head>
+
+<body id="1" data-target=".navbar-fixed-top" data-spy="scroll">
+
+	<nav class="navbar navbar-custom navbar-fixed-top top-nav-collapse">
+		<div class="container">
+			<div class="navbar-header">
+				<button class="navbar-toggle" data-target=".navbar-main-collapse" data-toggle="collapse" type="button"> </button>
+				<a class="navbar-brand page-scroll" href="#1"><span class="light">Template</span>2</a>
+			</div>
+			<div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+				<ul class="nav navbar-nav">

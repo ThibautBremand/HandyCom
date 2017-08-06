@@ -1,0 +1,74 @@
+/*head*/
+
+.navbar {
+	background-color: #04347E;
+}
+
+.navbar > div > div > ul > li {
+	/*params*/
+	color:white;
+	font-weight:bold;
+	font-size:20px;
+	margin-top:20px;
+	margin-left:15px;
+	font-family:'Arial';
+}
+
+#liensmenu > li > a {
+	color:white;
+}
+
+.navbar-fixed-top {
+    height: auto;
+}
+
+.navbar-collapse { background:#04347E; }
+
+#logohead {
+	width:auto;
+	height:auto;
+}
+
+#logohead > a > img {
+	/*margin:12px;*/
+	margin-top:30px;
+	max-width:150px;
+	max-height:30px;
+}
+
+header {
+    background: url("../images/bg.jpg") no-repeat fixed center center / cover rgba(0, 0, 0, 0);
+    min-height: 950px;
+}
+
+/*Intro*/
+
+.intro-text {
+	margin-top:15em;
+	color:white;
+	text-align: center; 
+	font-size:15px;
+}
+
+.intro-text > h1 {
+	font-weight:bold;
+}
+
+/*white parts*/
+.oddPart {
+	background-color:white;
+	padding-bottom:5em;
+}
+
+/*blue parts*/
+.evenPart{
+	background-color: #04347E;
+	color:white;
+	padding-bottom:5em;
+}
+
+/*logos*/
+.logoclub {
+	max-width:17em;
+	max-height:17em;
+}

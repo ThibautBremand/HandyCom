@@ -1,0 +1,47 @@
+/*Pour ce connecter*/
+.btnconnect {
+	background-color: blue;
+}
+
+/*Selection de template*/
+.preview {
+	max-height:300px;
+	max-width:300px;
+}
+
+.tplSelected > img {
+	border:5px solid green;  
+}
+
+.tplUnselected {
+
+}
+
+/*Preview de template*/
+#preview {
+
+}
+
+/*A l'interieur de la colorbox*/
+.titreTplColorbox {
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.logoTplColorbox {
+	max-width:80%;
+	max-height:60%;
+	margin:auto;
+}
+
+.descriptionTplColorbox {
+	text-align : justify;
+}
+
+.linkTplColorbox {
+	margin-top:2px;
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;	
+}
