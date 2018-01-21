@@ -1,6 +1,7 @@
 HandyCom
 ========================
-Back-end + front-end for the web templates editor http://thibautbremand.fr/HandycomEng
+Back-end + front-end for the web landing pages editor http://thibautbremand.fr/HandycomEng <br/>
+**Demo :** http://thibautbremand.fr/HandycomEng <br/>
 
 **Installation :** <br/>
 - Clone the repo in your php server.
