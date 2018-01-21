@@ -1,6 +1,8 @@
 HandyCom
 ========================
 Back-end + front-end for the web landing pages editor http://thibautbremand.fr/HandycomEng <br/>
+Written in pure PHP without any framework. <br/>
+
 **Demo :** http://thibautbremand.fr/HandycomEng <br/>
 
 **Installation :** <br/>
